@@ -90,6 +90,9 @@ modules.xml
 # Sonarlint plugin
 .idea/sonarlint
 
+# Run configurations
+.run/
+
 ### Java ###
 # Compiled class file
 *.class

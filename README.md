@@ -12,6 +12,6 @@ A tutorial is available
 Although this project is old and inactive, there are a few possible improvements
 if I do get to working on it again:
 
-- use OpenGL instead of AWT to increace performance;
-- rewrite in rust for the same reason;
-- rework the collision system to allow for interpolation.
+- use OpenGL instead of AWT to increace performance
+- rewrite in rust for the same reason
+- rework the collision system to allow for interpolation
