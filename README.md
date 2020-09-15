@@ -1,6 +1,10 @@
 # 2D-Ideal-Gas
 
-A particle gas simulation written in Java and AWT.
+![lang](http://img.shields.io/badge/language-java-b07219?style=flat-square)
+[![Discord](https://img.shields.io/discord/697808612214440057?style=flat-square&logo=discord)](https://discord.gg/XfVQ2KG)
+![todo](http://img.shields.io/badge/tasks-3-orange?style=flat-square&logo=checkmarx)
+
+A particle gas simulator written in Java and AWT.
 
 ## Tutorial
 
